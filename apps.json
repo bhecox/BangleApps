@@ -1,4 +1,18 @@
 [
+  { "id": "hxtimer",
+  "name": "HX Timer",
+  "shortName":"hxtmr",
+  "version":"0.01",
+  "description": "A detailed description of my great app",
+  "icon": "app.png",
+  "tags": "",
+  "supports" : ["BANGLEJS2"],  
+  "readme": "README.md",
+  "storage": [
+    {"name":"hxtimer.app.js","url":"app.js"},
+    {"name":"hxtimer.img","url":"app-icon.js","evaluate":true}
+  ]
+  },
   {
     "id": "fwupdate",
     "name": "Firmware Update (BETA)",
