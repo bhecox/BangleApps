@@ -1,5 +1,4 @@
 require("Storage").write("hxtimer.info",{
   "name":"HX Timer",
-  "src":"hxtimer.app.js",
-  "icon":"hxtimer.img"
+  "src":"app.js"
 });
